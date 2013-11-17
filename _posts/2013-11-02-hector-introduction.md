@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction of Hector
+title: Hector 基于Go语言的机器学习库
 ---
 
 Hector是一个基于Go语言的机器学习工具集，他的名字来源于希腊神话中的英雄，我们对它的期望是:
